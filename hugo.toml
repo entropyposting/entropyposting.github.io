@@ -1,7 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Entropy Posting'
-theme = "cactus"
+theme = "paper"
 
 [[menu.main]]
 name = "Home"
