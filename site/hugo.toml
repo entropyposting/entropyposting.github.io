@@ -1,0 +1,20 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Entropy Posting'
+theme = "cactus"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Posts"
+url = "/posts"
+weight = 2
+
+[params]
+
+    colortheme = "classic"
+
+  description = "I started writing because I'm an article addict. This is an exercise to help me organize my thoughts."
