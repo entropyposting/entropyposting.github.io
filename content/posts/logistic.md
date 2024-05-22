@@ -24,9 +24,7 @@ The best expression of the mismatch here has been the large language model hype 
 
 This is happening at a time when the real world could use a lot more attention. Making the world and economy more resilient to the effects of climate change isn't actually that technically complicated. We know exactly how to build more insulated buildings and how to farm to keep the soil alive. But private capital is less interested in that stuff, because it's boring and it isn't going to double every year forever. Our brains are so fucked by Moore Mindset that the only climate solutions we can imagine are tech solutions like a car that looks like an iPhone, is impossible to repair, and loves to catch on fire. Investors are even moving out of renewable energy because the returns aren't exponential enough. 
 
-Logistic growth explains much of the incoherence in our current moment. It's probably because we've never been near global carrying capacity, and so never confronted our own asymptote. But look at the trends in crop productivity and you'll understand that our food system only has so much room to grow - it's also constrained by finite space and competing with the growing human population. There's no convincing evidence that agricultural tech like hydroponics will scale in time to save us at the last minute.
-
-People love to dunk on Francis Fukuyama for saying that history was over in the 1990s. But he was kinda right - Moore Mindset relies on infinite doubling, and we're at the top. We need to let it go if we want to build a future.
+Logistic growth explains a lot of the incoherence in our current moment. It's probably because we've never been near global carrying capacity, and so we've never confronted our own asymptote. People love to dunk on Francis Fukuyama for saying that history was over in the 1990s, but he was kinda right. Moore Mindset relies on infinite doubling, and we're at the top. We need to let it go if we want to build a future.
 
 -------
 
