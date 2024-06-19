@@ -3,6 +3,7 @@ title: "Predictions, LLMs, Gaussian copula"
 date: 2024-06-19T09:02:34-07:00
 draft: False 
 ---
+AI has reached the 1990s and discovered that Shakespeare is a lot like rap. ![Sign me up for this class](/img/shakespeare_is_rap.png "From TechCrunch")
 
 
 One of my biggest gripes with the American left is its tech illiteracy. Since the political reconfigurations of the 1990s and 2000s, the left's key figures have been either unwilling or unable to make a critique of the tech that runs the modern world - either the social technologies like modern economics or the physical technologies like computing - in a way that reflects a deep understanding of either. Say what you will about the right, but they have a deep bench of figures from midwit up to intellectual who can talk about things like modern monetary theory and provide something approaching a coherent model of how the economy fits together.
