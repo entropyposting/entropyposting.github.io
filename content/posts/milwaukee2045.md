@@ -1,6 +1,6 @@
 ---
-title: "Milwaukee 2045"
-date: 2025-01-11T16:55:18-08:00
+title: "Short Fiction: Milwaukee 2045"
+date: 2025-01-05T16:55:18-08:00
 draft: false
 ---
 
