@@ -4,7 +4,7 @@ date: 2025-01-12T17:04:12-08:00
 draft: false
 ---
 
-From my perch in the cockpit, everything looked like a pile of toys. Looking out toward the horizon as the day's first light diffused gently overhead, the port unfolded beneath me in miniature, ground crews scurrying antlike around their trucks. A dull headache squeezed my temples, rising every so often to remind me it was there whenever I was in danger of focusing too much on the task at hand. My vision was clear but disconnected from my apprehension as though by a layer of fog on some higher plane. 
+From my perch in the cockpit, everything looked like toys. Looking out toward the horizon as the day's first light diffused gently overhead, the port unfolded beneath me in miniature, ground crews scurrying antlike around their trucks. A dull headache squeezed my temples, rising every so often to remind me it was there whenever I was in danger of focusing too much on the task at hand. My vision was clear but disconnected from my apprehension as though by a layer of fog on some higher plane. 
 
 Seeing the sun rise, having been up for hours already, only intensified the headache. The long drive here along the dark, empty freeways, a strange dream-world where their geometry was divorced from their essential function as clogged arteries; the quick stop at my locker, the donning of the high-vis, the usual mix of back-slapping, grunts and nods in half-acknowledgement; the scalding brew in the styrofoam cup, pulling us across the doorstep into the waking world as the day's briefing echoed off our skulls, only the relevant crumbs for each of us making it through, pocketing the note-sheet for later reference. 
 
