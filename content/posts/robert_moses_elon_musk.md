@@ -19,6 +19,9 @@ Think about it like this: USA Boxing has a rule prohibiting "low blows" (hits be
 
 In real life, powerful people can break laws, and even be held accountable for the violations, while still "getting away with it". If there law outlines a $7 million fine for dumping an industrial pollutant into the river, but handling it safely costs $10 million, EVEN AFTER an Erin Brockovich-style investigation and yearslong legal battle, the company can come out on top. The real effect of this is that our legal system (the combination of the law and how and when it is enforced) heavily favors powerful people acting first, and asking questions later. 
 
+Robert Moses
+------------
+
 History is chock-full of episodes that teach this lesson. The master of this principle was Robert Moses, the man who built modern New York City. For more than 40 years, from the 1920s all the way up to the '60s, he sat at the nerve center of the Democratic Party's political machine and used all the levers of power at his disposal to remake the city in his image. Without a direct mandate, he built the New York State Parkway system, gigantic public housing tracts, and many of the arterial highways, bridges and tunnels connecting Manhattan to the mainland. 
 
 And the best part? He did this all by autocratic fiat without ever winning an election. His projects often faced considerable opposition at all levels of society.  They often demolished public spaces or existing tenement housing, displacing tens of thousands of poor New Yorkers and drawing the ire of activists, conservationists and polite society more generally. But despite this resistance Moses remains the longest-reigning champion of New York's political boxing ring, going up against the likes of FDR, Fiorello LaGuardia, Eleanor Roosevelt and Jane Jacobs and winning time after time. 
@@ -27,6 +30,9 @@ None of this supposed liberal pushback provided any real friction. Attacks from 
 
 What Moses understood, and what Musk and Trump seem to understand, is that possession is nine-tenths of the law. The people who own land and employ construction crews can pretty much impose their will on people who don't. The power to control money flows is much the same. Even if the courts *SOMEHOW* manage to coerce the Treasury into turning the money faucet back on, I suspect that many of the programs Musk will cut will wither and die in the intervening months and years without the required inflow of resources. 
 
+...and Us
+---------
+
 As long as we keep electing leaders like my own Gruesome Gavin and Karen Bass, who rule more in the symbolic domain of statements and TV appearances than the cold, hard world of fire management, prescribed burns and housing construction, we will continue stepping on rakes. Nothing will get done, except maybe some subsidies from the state to Disney by way of Stronger Together spiderman ad campaigns on billboards across my fine city. 
 
 Unfortunately, the California Democratic machine is able to mobilize enough low-information straight-ticket voters that their anointed creatures will probably remain on top here. So what does this mean for us chumps? If you're reading this you're in my real or online social circle, which means that you're probably a member of the Ideas tribe, someone who doesn't own a bunch of land or have a bunch of goons. If you're paying attention at all you realize your stock is currently crashing in America. What do we do about that? I certainly don't want to become one of Mark Zuckerberg's techno-serfs. 
@@ -34,6 +40,8 @@ Unfortunately, the California Democratic machine is able to mobilize enough low-
 We can no longer look to Daddy in the legal system to enforce some abstract legal code on our behalf. If we want to protect our way of life, we need some power of our own. Ideas People such as ourselves have historically undercounted the importance of real power in the form of ownership of tangible resources like land in favor of purely cerebral assets like cultural capital or a nice apartment in The Big City.
 
 This isn't a Leave Society manifesto. Technology will always expand into the frontiers. You can run, but eventually the internet will knock on your cabin door. Tangibly, you can gain real social power in your surroundings. You can cultivate a real network of real friends who are accountable to one another. You can volunteer in your community. One of the easiest ways to do this is to dispense free food to people in your neighborhood. You can also obviously buy land, although that's more complicated. 
+
+I'll be honest. I don't totally know what we do. I don't know how coherent any of this is. But we need to start from the fact that if you want to affect the real world, physical reality and hard resources are ultimately what matters. 
 
 
 
