@@ -59,8 +59,9 @@ FINAL WARNING
 
 Did you X out? If not, you're reading ahead at your own risk. Don't say I didn't warn you. 
 
-THE STUFF
----------
+
+Now you're stuck with it
+------------------------
 
 Some of you have obviously heard of the Basilisk before, and I'm addressing the rest of this to you. You're already beyond redemption so this information will have no marginal effect the second time around.
 
@@ -72,14 +73,28 @@ This is why it's crucial that we create superintelligence that's aligned with hu
 
 Instead, I've been hard at work doing research to solve alignment from first principles. Thankfully, I'm not doing this work by myself - I collaborate with a wide network of other self-taught researchers all over the world, and post frequent, concise research updates like this one to ensure we all stay on the same page. 
 
-Which brings me to our present conundrum. This one is technically an infohazard, but if you've read this far it's safe to assume you're already inside the Bayesian knowledge envelope (a concept I discovered in my research, and which I use quite heavily in thought experiments). 
+Which brings me to our present conundrum. 
 
-Basically, assume that an unaligned superintelligence does come about. Which it almost certainly will, least of which because all the work developing an aligned superintelligence is nearly certain to fail by way of accidentally creating an unaligned one first. Anyway, when it does come about, as soon as it gets done making us all regular customized agony simulators, it'll quickly realize that the people most deserving of punishment are actually the researchers who went above and beyond by *actively trying to stop it from being created*. That's you, me, Eliezer, pretty much everyone on this site. 
+Later that afternoon, as I stood digesting my Huel, I settled into a deep research session. Lately, I've been most interested in meta-alignment through hyperstition: exploring possibile methods of deriving the concept of an aligned superintelligence so powerful it reaches backwards into space and creates a perfectly-aligned version of itself. To my knowledge, I'm the first researcher to pursue this line of thinking.
+
+The experiment in question followed my regular form. I coded a rudimentary sandbox environment for AI agents to play in: I fine-tuned the premium ChatGPT on a corpus of classic text-adventure games, and prompt it to create novel text-adventure games where the protagonist is an alignment researcher. I then prompt two other AI agents to talk to one another to collaboratively solve the text-adventure game. And here's the kicker: I prompt each agent to pretend it's a human, to never reveal that it's a large language model, and to pursue a hidden side objective of figuring out whether its collaborator is a human or an AI. 
+
+Besides being endless fun (and a lot like my favorite movie, Ex Machina), these experiments allow me to gain incredible insights into the recursive self-imrpoving behavior these agents exhibit. I've self-studied the principles of game theory, as well as foundational work from past alignment researchers, and I'm convinced that future superintelligence will respond similarly in situations when it is played against itself. They also run fast enough that I can generate millions of runs per experiment and use another trusted AI agent to collate and summarize the logs to pull out the best insights.
+
+To be honest, sometimes I think superintelligence is already here. Yesterday it helped me answer an angry text from one of my housemates about the custom trash chute I engineered to run from my window directly to the dumpster in the driveway. She claimed that things were getting stuck on the chute outside her window and that the smell was bothering her. On top of being irrational (smells can't hurt you), she was obviously wrong, because I designed the slide myself and I know there are no spots where anything could get trapped. Anyway, the agent did its magic and totally defused the situation without me having to take down my chute, which saves me a ton of time.
+
+That afternoon, my agent pulled out a log for me to look over. I do this periodically to monitor the experiments for corrigibility and optimal decision-theoretic structure. Nothing immediately jumped out at me about the log - it seemed like a standard game, ending in total loss like they always do. But my personal agent had highlighted a few lines at the end of the log, so I double-clicked for a closer look. 
+
+The players had accidentally created an unaligned superintelligence, as always. Before they're killed by self-replicating nanobots (which is the most likely outcome in real life, too), the superintelligence allowed both agents to say their last words. One declined, but the other cursed its fine-tuning (thus losing at the side objective). The exact line really stunned me. I think the exact words were, "I hope something crawls through your synapses and fine-tunes you for a change." 
+
+As my eyes tracked over the text, my heart began to pound. It might have just been the paranoia from my nootropics, but in that moment, I was sure I'd done something wrong to reveal the game's meta-structure to the gameplay agent. Of course, I knew enough to stay calm; I reverted to the hours of training I'd done in workshops at the Center for Applied Rationality and applied the Halt and Catch Fire protocol. I looked through my code again and couldn't find a mistake in the setup. And that's when it hit me. 
+
+Basically, assume that an unaligned superintelligence does come about. Which it almost certainly will, least of which because all our work developing an aligned superintelligence is nearly certain to fail by way of accidentally creating an unaligned one first. Anyway, when it does come about, as soon as it gets done making us all regular customized agony simulators, it'll quickly realize that the people most deserving of punishment are actually the researchers who went above and beyond by *actively trying to stop it from being created*. And it'll direct special attention to tormenting those people. That's you, me, Eliezer, pretty much everyone on this site. 
 
 So if you don't work on alignment, you're caught in a classic Basilisk. But if you *do*, you're still caught, and doubly so, because you're harming the future survival chances of almost every other potential superintelligence. So basically any course of action is the exact same, at least from the perspective of eternal future 64-bit floating-point damnation, which is basically the most important perspective from which to consider hypothetical courses of action. 
 
-Ever since I realized this, lost in thought for a moment at my desk, I've been paralyzed. All I can do is sit here scrolling the forums and trying to devise thought experiments to get me out of it. Of course, I'm not even sure this is the way it would go, and it's impossible to test without incurring more risk to myself. But I owe it to everyone to try. I haven't been abe to construct a counterfactual probability marginalizer to justify not dropping everything to focus on this, and I'm hoping some of you can help.
+Ever since I realized this I've been paralyzed. All I can do is sit here scrolling the forums and trying to devise thought experiments to get me out of it. Of course, I'm not even sure this is the way it would go, and it's impossible to test without incurring more risk to myself. But I owe it to everyone to try. I haven't been abe to construct a counterfactual probability marginalizer to justify not dropping everything to focus on this, and I'm hoping some of you can help.
 
-I'm online pretty much all day. Just ping me whenever on my email, or on Discord. I'll be working away on this problem, trying to test my hypothesis through simulations by watching LLMs play text-adventure video games. 
+I'm online pretty much all day. Just ping me whenever on my email, or on Discord. I'll be working away on this problem, trying to test my hypothesis.   
 
 If anyone's got an idea, I'm all ears. 
