@@ -24,7 +24,7 @@ In the briefing room the day they'd been brought in, we learned that the units h
 
 But this was my seventh job in as many years, and I knew better than to get complacent. Of course we all thought certain things would be beyond their capabilities for the foreseeable future, but the goalposts were in constant retreat, pushing those of us without equity ownership further toward the frontiers, into work with ever higher stakes, both in terms of money and safety. I knew my days up here in the cockpit were numbered, and once I was no longer needed here, I'd be shunted down; if there wasn't work for me on one of the ground crews or deck gangs, if I got caught at a bad time in the season, I'd be out on my ass again, browsing job sites and frantically texting everyone I'd met these last few years in hopes of a lead.  
 
-The Indeed.com homepage flitted past my eyes for a second as I lowered the spreader the final few feet, pushing it past the autonomous unit's feeble protest to its resting place atop the shipping container. Ready to lock it in place, I radioed the deck crew again. "Alright. Spreader looks like it's aligned. Confirm lock-on when ready."
+I was back there, in my room on the computer, for a second as I lowered the spreader the final few feet, pushing it past the autonomous unit's feeble protest to its resting place atop the shipping container. Ready to lock it in place, I radioed the deck crew again. "Alright. Spreader looks like it's aligned. Confirm lock-on when ready."
 
 "Yep, the spreader's aligned. Good to engage locks."
 
